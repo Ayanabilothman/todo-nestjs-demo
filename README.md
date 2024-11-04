@@ -52,7 +52,6 @@ Welcome to the NestJS Todo Demo! This powerful app offers seamless task manageme
 
    ```bash
    git clone https://github.com/Ayanabilothman/todo-nestjs-demo.git
-   cd todo-app
    ```
 
 2. **Install dependencies**:
